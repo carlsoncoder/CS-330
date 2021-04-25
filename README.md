@@ -23,8 +23,13 @@ cat 3D_Scene_Source.tar.gz.part* > 3D_Scene_Source.tar.gz
       - The tactic of proving out a new function in a smaller code base (Proof of Concept) is a great approach that I think can be used in almost any software design or development project.
 - How do I approach developing programs?
    - What new development strategies did you use while working on your 3D scene?
+      - Working with C++ header files was something new that I haven't done before.  I had to do a bit of research to find out the proper way to do it and make sure I had all the right include statements.
    - How did iteration factor into your development?
+      - This worked will with my approach of doing small proof of concept works, outside of my main codebase.  This allowed me to rapidly prove out or iterate on a new concept, without risking messing up my "good code" for the final project, and then allowed me to integrate it into my own main code base once I had it all working properly.
    - How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
+      - Not much changed with my approach to developing the code.  I followed many of the same processes and procedures I use in my everyday job as a Software Architect.
 - How can computer science help me in reaching my goals?
    - How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
+      - I think it helps a little bit in the aspect of learning more about C++ and understanding OpenGL in general, but I do not anticpate the need to go further down this path at this time.
    - How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+       - I'm not exactly sure how this will help me in my professional pathway, as most of the stuff I do is system/architecture design.  However, it does give me a new insight into UI development and how that would impact the users of my systems
